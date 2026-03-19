@@ -1,7 +1,5 @@
 # Changelog
 
-## 1.0.0
+## 1.0.1
 
-- Initial release
-- Removed post-score countdown timer behavior
-- Added fallback patch target for robustness across minor game updates
+- Updated README
