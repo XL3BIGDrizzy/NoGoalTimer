@@ -1,4 +1,7 @@
 # Changelog
+## 1.1.1
+
+-Updated README
 
 ## 1.1.0
 
